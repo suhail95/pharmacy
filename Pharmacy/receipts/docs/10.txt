@@ -1,0 +1,7 @@
+paracetamol;500mg;3;10;2;20
+Dual Cotexin;100 gms;1 x 2;10;120;1200
+Select Drug;100 gms;1x2;10;;0
+Nemosulide;100gms;200mb;5;100;500
+paracetamol;100gms;1X2;20;2;40
+Select Drug;100gms;1x2;20;;0
+paracetamol;100gms;1x2;20;2;40
