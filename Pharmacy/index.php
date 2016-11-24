@@ -1,4 +1,3 @@
-/* INDEX FILE */
 <?php
 include_once 'connect_db.php';
 if(isset($_POST['submit'])){
